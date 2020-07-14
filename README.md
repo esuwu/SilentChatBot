@@ -1,4 +1,4 @@
 # SilentChatBot
 
 ## Join:
-* [Bot](t.me/SilentChatBot)
+* [Bot](https://t.me/SilentChatBot)
