@@ -12,5 +12,6 @@
 - ./ngrok http 3000 
 - curl -F "url=https://<your_ngrok_key>.ngrok.io/"  https://api.telegram.org/bot<your_api_token>/setWebhook
 
+## Don't forget change the token in .env
 ***
 ## Server works on :3000 port
