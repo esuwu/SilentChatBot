@@ -5,8 +5,7 @@
 
 ## How to run
 ### First step (build):
-- docker build -t silent-bot -f Dockerfile .
-- docker run -p 3000:3000 --name silent silent-bot
+- Go run main.go  (I have some troubles with Dockerfile, will be fixed next time)
 ### Second step (deploy):
 - [install ngrok](https://ngrok.com/download)
 - ./ngrok http 3000 
