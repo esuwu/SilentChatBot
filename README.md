@@ -5,7 +5,7 @@
 
 ## How to run
 ### First step (build):
-- Go run main.go  (I have some troubles with Dockerfile, will be fixed next time)
+- go run main.go  (I have some troubles with Dockerfile, will be fixed next time)
 ### Second step (deploy):
 - [install ngrok](https://ngrok.com/download)
 - ./ngrok http 3000 
